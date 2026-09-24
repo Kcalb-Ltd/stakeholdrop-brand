@@ -185,8 +185,8 @@
     },
     {
       "path": "assets/svg/stakeholdrop-round.svg",
-      "sha256": "879477aac2009daa2ab05eb25a5f114a883dd1814e5584a16661ca3c56cdce4b",
-      "bytes": 1317,
+      "sha256": "973b91c57fbf0239741acb73d44374f9b9b86de3b2a460e2f97bcbd3101e85ad",
+      "bytes": 1391,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
@@ -195,8 +195,8 @@
     },
     {
       "path": "assets/svg/stakeholdrop-square.svg",
-      "sha256": "0b0ed3f06d6c9b3d76efa0fac8566b086acb555d73a1970ce64e5e11422ae33a",
-      "bytes": 1325,
+      "sha256": "c2cb0087d7f96555dc43d7a56259e1274be8aae9a7409c1030f7073dca591b7b",
+      "bytes": 1399,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
@@ -205,8 +205,8 @@
     },
     {
       "path": "assets/svg/stakeholdrop-symbol-color.svg",
-      "sha256": "b05e0bda38e1983ed79d710550d443df7386debd5c80be1575a1f893b1818478",
-      "bytes": 726,
+      "sha256": "fea4a8ed4c137ac9ded91d1d3248fb656c03e8c134805b646351d9af17e5b335",
+      "bytes": 800,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
@@ -215,8 +215,8 @@
     },
     {
       "path": "assets/svg/stakeholdrop-symbol-white.svg",
-      "sha256": "8d1057536fdae6bc6efabc52960fb3d531222b5a8645a8076fb176a80ec35ecc",
-      "bytes": 723,
+      "sha256": "b24a0f4b9970dd494f344bbc701d1d3561beb547579e4c75206c1ede4f8fcb95",
+      "bytes": 797,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
@@ -224,5 +224,5 @@
       "notes": "White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox)"
     }
   ],
-  "assetSetSha256": "a672f05e53dc07b2c6f8517545fb6bef3e4f1dfc978f40148be884771826adf1"
+  "assetSetSha256": "dede969122f23b0f42bf061ea499c78d427f83cc48d1464d882984eba3cccb07"
 }
