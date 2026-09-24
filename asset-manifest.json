@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "assetSourceRevision": "initial",
+  "license": "All rights reserved, Kcalb Ltd (see LICENSE)",
+  "assets": [
+    {
+      "path": "assets/png/round/stakeholdrop-round-1024.png",
+      "sha256": "4fc804db38918066c8d0f51453bcb8fd221d35d65324c7bddb11706313301990",
+      "bytes": 147815,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/stakeholdrop-round-200.png",
+      "sha256": "ad6a7825c5838f262128e264ae44518e4335b9f919b6f793bde982bd38e3142b",
+      "bytes": 19004,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/stakeholdrop-round-3000.png",
+      "sha256": "7fcf43fdf4780bc6de440dad0f6e53b55b219daf188f6f69d49a5e37a413225a",
+      "bytes": 614472,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/stakeholdrop-round-32.png",
+      "sha256": "3ee1a35e8490f83540639d3e1c8664d8fec4e6141a198da59c4d9be175b7e6bb",
+      "bytes": 1892,
+      "containerFormat": "PNG",
+      "width": 32,
+      "height": 32,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/stakeholdrop-round-500.png",
+      "sha256": "1a0c920822eab25a009a5b9cd638d4b7311c70638a6f331672434ba6754d69c9",
+      "bytes": 58507,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/stakeholdrop-square-1024.png",
+      "sha256": "f32e860c0056c0db406393d8d9d8ca3bcf0325c88ad13ed4e37c922d4ccdb3de",
+      "bytes": 136261,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/stakeholdrop-square-200.png",
+      "sha256": "d66f5570ad2b7d9e42bc5f845b2e377e5c29691cf8ea57acd4ce0f6504f93f90",
+      "bytes": 16695,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/stakeholdrop-square-3000.png",
+      "sha256": "9f33199b21b16f8ed1b5dd071b50342907ca6f1f019b8c8792b72fe7f0da7dee",
+      "bytes": 566185,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/stakeholdrop-square-32.png",
+      "sha256": "144d50dbc658b98afe5884c5806212d7d15607336d52e3d3882ae045ada52682",
+      "bytes": 1580,
+      "containerFormat": "PNG",
+      "width": 32,
+      "height": 32,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/stakeholdrop-square-500.png",
+      "sha256": "2988249af0ee6fcda6531db10138d2346d4aa8a2819669bee393b7225058b4f6",
+      "bytes": 52583,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/symbol-color/stakeholdrop-symbol-color-1024.png",
+      "sha256": "8317f07b3571f53e5f195bf2cda2e3965e6408fac364a69a644da750b672bafa",
+      "bytes": 41391,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/stakeholdrop-symbol-color-200.png",
+      "sha256": "3b0523c5604a1792ff4dadb446c6dea248877eee2ee054029d0ae4fbd145afa8",
+      "bytes": 5729,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/stakeholdrop-symbol-color-3000.png",
+      "sha256": "d26434995cfbe4e45c6d203697fb3e53272a954f8f09b77357060d42bd6110ab",
+      "bytes": 178320,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/stakeholdrop-symbol-color-500.png",
+      "sha256": "73af567c2abd9ea2e8d4ec6023b6b5b52aea07ee5cffd7267b8e8cc97f118d5d",
+      "bytes": 17381,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/stakeholdrop-symbol-white-1024.png",
+      "sha256": "3cefe1ab45f1cc71e307b74fbd9d0edbe9bf5b9b4be39e0f1a8bed884724e46e",
+      "bytes": 25703,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/stakeholdrop-symbol-white-200.png",
+      "sha256": "d4759f008334613e597d79bfbecd90c168dff071566a29f958140b344f7e401d",
+      "bytes": 4345,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/stakeholdrop-symbol-white-3000.png",
+      "sha256": "00b09ce2e2feab449197596e0d549cbea1a35895726783a2530e15934c6eb94c",
+      "bytes": 108988,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/stakeholdrop-symbol-white-500.png",
+      "sha256": "ce1f611b7cc2077e5655638482b1f1dcba1af85b9c6ec678831818e30b014c56",
+      "bytes": 12011,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/svg/stakeholdrop-round.svg",
+      "sha256": "879477aac2009daa2ab05eb25a5f114a883dd1814e5584a16661ca3c56cdce4b",
+      "bytes": 1317,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Vector master, round with shadow (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/stakeholdrop-square.svg",
+      "sha256": "0b0ed3f06d6c9b3d76efa0fac8566b086acb555d73a1970ce64e5e11422ae33a",
+      "bytes": 1325,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Vector master, rounded square with shadow (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/stakeholdrop-symbol-color.svg",
+      "sha256": "b05e0bda38e1983ed79d710550d443df7386debd5c80be1575a1f893b1818478",
+      "bytes": 726,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/stakeholdrop-symbol-white.svg",
+      "sha256": "8d1057536fdae6bc6efabc52960fb3d531222b5a8645a8076fb176a80ec35ecc",
+      "bytes": 723,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox)"
+    }
+  ],
+  "assetSetSha256": "a672f05e53dc07b2c6f8517545fb6bef3e4f1dfc978f40148be884771826adf1"
+}
