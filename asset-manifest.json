@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "assetSourceRevision": "initial",
+  "assetSourceRevision": "2026-09-27",
   "license": "All rights reserved, Kcalb Ltd (see LICENSE)",
   "assets": [
     {
       "path": "assets/png/round/stakeholdrop-round-1024.png",
-      "sha256": "4fc804db38918066c8d0f51453bcb8fd221d35d65324c7bddb11706313301990",
-      "bytes": 147815,
+      "sha256": "2e43f4af50a9b592282811f146aebb03374b7c4efff8032009f29471d37c0d9c",
+      "bytes": 148454,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -15,8 +15,8 @@
     },
     {
       "path": "assets/png/round/stakeholdrop-round-200.png",
-      "sha256": "ad6a7825c5838f262128e264ae44518e4335b9f919b6f793bde982bd38e3142b",
-      "bytes": 19004,
+      "sha256": "50b7aa85485032ed80c7e931e18c768e597b1dce3150545900c03836249d6df0",
+      "bytes": 18980,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -25,8 +25,8 @@
     },
     {
       "path": "assets/png/round/stakeholdrop-round-3000.png",
-      "sha256": "7fcf43fdf4780bc6de440dad0f6e53b55b219daf188f6f69d49a5e37a413225a",
-      "bytes": 614472,
+      "sha256": "784ba0fa3626c78163e8dd7ecf82bd268f592ac12c2f6e6612831199f8abea0c",
+      "bytes": 636986,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -35,8 +35,8 @@
     },
     {
       "path": "assets/png/round/stakeholdrop-round-32.png",
-      "sha256": "3ee1a35e8490f83540639d3e1c8664d8fec4e6141a198da59c4d9be175b7e6bb",
-      "bytes": 1892,
+      "sha256": "74828e23a6238d3969f606e7dbcfe0fd923fe84b0bf578ffd818d7f17b824664",
+      "bytes": 1876,
       "containerFormat": "PNG",
       "width": 32,
       "height": 32,
@@ -45,8 +45,8 @@
     },
     {
       "path": "assets/png/round/stakeholdrop-round-500.png",
-      "sha256": "1a0c920822eab25a009a5b9cd638d4b7311c70638a6f331672434ba6754d69c9",
-      "bytes": 58507,
+      "sha256": "9e125c121b96b1fb7a80edf4232d137569afb201c049d91b4ad4b000d68e5050",
+      "bytes": 59170,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -55,8 +55,8 @@
     },
     {
       "path": "assets/png/square/stakeholdrop-square-1024.png",
-      "sha256": "f32e860c0056c0db406393d8d9d8ca3bcf0325c88ad13ed4e37c922d4ccdb3de",
-      "bytes": 136261,
+      "sha256": "d9e725a7833ee0db4d3c35d26c71ee8c08f173a24dbe16c1390d38e89cd10a6e",
+      "bytes": 137124,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -65,8 +65,8 @@
     },
     {
       "path": "assets/png/square/stakeholdrop-square-200.png",
-      "sha256": "d66f5570ad2b7d9e42bc5f845b2e377e5c29691cf8ea57acd4ce0f6504f93f90",
-      "bytes": 16695,
+      "sha256": "3be10262c69787fcd433a9d5218ff3f508cd19b898d1543b066d48f203ae3b53",
+      "bytes": 16632,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -75,8 +75,8 @@
     },
     {
       "path": "assets/png/square/stakeholdrop-square-3000.png",
-      "sha256": "9f33199b21b16f8ed1b5dd071b50342907ca6f1f019b8c8792b72fe7f0da7dee",
-      "bytes": 566185,
+      "sha256": "1680947df644a0e8d05eb77a566c4d97ca5383886e7c5d5cb13009d2a9681535",
+      "bytes": 583921,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -85,8 +85,8 @@
     },
     {
       "path": "assets/png/square/stakeholdrop-square-32.png",
-      "sha256": "144d50dbc658b98afe5884c5806212d7d15607336d52e3d3882ae045ada52682",
-      "bytes": 1580,
+      "sha256": "3474cee9f983be143e0f3df967e712186bacb5953d052e11cf71fd34ed0b89ac",
+      "bytes": 1568,
       "containerFormat": "PNG",
       "width": 32,
       "height": 32,
@@ -95,8 +95,8 @@
     },
     {
       "path": "assets/png/square/stakeholdrop-square-500.png",
-      "sha256": "2988249af0ee6fcda6531db10138d2346d4aa8a2819669bee393b7225058b4f6",
-      "bytes": 52583,
+      "sha256": "614fd34ecb8d9b8571bbc98ca2fdbc9052b9e7eb45d1279b1c67547dbf75f28b",
+      "bytes": 53509,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -105,8 +105,8 @@
     },
     {
       "path": "assets/png/symbol-color/stakeholdrop-symbol-color-1024.png",
-      "sha256": "8317f07b3571f53e5f195bf2cda2e3965e6408fac364a69a644da750b672bafa",
-      "bytes": 41391,
+      "sha256": "d861c8e92c5a5bdf031c9ec9a385517316f9aca8a6fa424d02a08d2279cd8c34",
+      "bytes": 40677,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -115,8 +115,8 @@
     },
     {
       "path": "assets/png/symbol-color/stakeholdrop-symbol-color-200.png",
-      "sha256": "3b0523c5604a1792ff4dadb446c6dea248877eee2ee054029d0ae4fbd145afa8",
-      "bytes": 5729,
+      "sha256": "95a9b0c1a3b44f3cb9eae307f8c2c9644aa008cb15110755ecfc1dfe6666dd33",
+      "bytes": 5501,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -125,8 +125,8 @@
     },
     {
       "path": "assets/png/symbol-color/stakeholdrop-symbol-color-3000.png",
-      "sha256": "d26434995cfbe4e45c6d203697fb3e53272a954f8f09b77357060d42bd6110ab",
-      "bytes": 178320,
+      "sha256": "df210c504a5991f9dfe9e0e378b15f53be96f590505b2fd9c929750755890913",
+      "bytes": 176738,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -135,8 +135,8 @@
     },
     {
       "path": "assets/png/symbol-color/stakeholdrop-symbol-color-500.png",
-      "sha256": "73af567c2abd9ea2e8d4ec6023b6b5b52aea07ee5cffd7267b8e8cc97f118d5d",
-      "bytes": 17381,
+      "sha256": "fe0f3169cb169cc736c94046fca53b909f98aa64a80ad3e3df6389619522e5e6",
+      "bytes": 16770,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -185,8 +185,8 @@
     },
     {
       "path": "assets/svg/stakeholdrop-round.svg",
-      "sha256": "973b91c57fbf0239741acb73d44374f9b9b86de3b2a460e2f97bcbd3101e85ad",
-      "bytes": 1391,
+      "sha256": "6309c5980eeff3b242a6670b51f538d0535cdbc1bf70f70cf67ef94b39244752",
+      "bytes": 1389,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
@@ -195,8 +195,8 @@
     },
     {
       "path": "assets/svg/stakeholdrop-square.svg",
-      "sha256": "c2cb0087d7f96555dc43d7a56259e1274be8aae9a7409c1030f7073dca591b7b",
-      "bytes": 1399,
+      "sha256": "c35c855dde4e680432191dd22d368805399473df1103d832daf16511f3fdd801",
+      "bytes": 1397,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
@@ -205,7 +205,7 @@
     },
     {
       "path": "assets/svg/stakeholdrop-symbol-color.svg",
-      "sha256": "fea4a8ed4c137ac9ded91d1d3248fb656c03e8c134805b646351d9af17e5b335",
+      "sha256": "0fd9083c3c5ac4e47e97b8aef55f73e8ecb7da0eaa7c6423b8bb51e411fdf65e",
       "bytes": 800,
       "containerFormat": "SVG",
       "width": 1024,
@@ -224,5 +224,5 @@
       "notes": "White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox)"
     }
   ],
-  "assetSetSha256": "dede969122f23b0f42bf061ea499c78d427f83cc48d1464d882984eba3cccb07"
+  "assetSetSha256": "d1bbb212bbde53b9e823cbf92c8dcad12d0bfb28728ba60aee7d2b26ed8d09d4"
 }
